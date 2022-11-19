@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 django = "*"
 djangorestframework = "*"
-dj-rest-auth = "*"
+dj-rest-auth = "2.2.5"
 
 [dev-packages]
 
